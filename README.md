@@ -1,1 +1,1 @@
-# shadow-dom-automation
+# Automation methods for shadow dom
